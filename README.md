@@ -2,7 +2,7 @@
 - 👀 I’m interested in High dimensional analysis, Dependent data analysis and Mixture modeling
 - 🌱 I’m currently learning parallel computing with Python
 - 💞️ I’m looking to collaborate on intersting research problem on Statistics and Machine Learning
-- 📫 How to reach me soham.jana@yale.edu
+- 📫 How to reach me soham.jana@princeton.edu
 - :point_right: Checkout my website https://janasoham.github.io
 
 <!---
